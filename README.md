@@ -202,7 +202,7 @@ A：本 skill 不提供法律或财税意见，请咨询专业人士或主管部
 <a id="zh-author"></a>
 ### 作者
 
-**华夏路菜菜子**：博主，[business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill) 作者。
+**华夏路菜菜子**：前大厂 AI 产品增长，现 AI 创业者，「一人公司工具包」作者。
 
 - GitHub：[@huaxialucaicaizi](https://github.com/huaxialucaicaizi)
 
@@ -403,7 +403,7 @@ A: Not legal or tax advice; consult professionals.
 <a id="en-author"></a>
 ### Author
 
-**华夏路菜菜子 (huaxialucaicaizi)**: blogger and author of [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill).
+**华夏路菜菜子 (huaxialucaicaizi)**: former AI product growth lead at major Chinese tech companies, now an AI founder; author of the One-Person Company Toolkit.
 
 - GitHub: [@huaxialucaicaizi](https://github.com/huaxialucaicaizi)
 
