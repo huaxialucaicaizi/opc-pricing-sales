@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- 许可证由 MIT 改为非商业许可；转载或商用须通过 GitHub 联系作者 @huaxialucaicaizi
+- License changed from MIT to non-commercial; republication or commercial use requires contacting @huaxialucaicaizi
 - README「一人公司工具包」表格：仓库链接改为加粗"英文名 · 中文名"（英文版只用英文名），与姐妹仓库写法一致
 - README "One-Person Company Toolkit" table: repo links now use bold names, matching sister repos
 - README「一句话介绍」中的"下一步"链接改为加粗"英文名 · 中文名"（英文版只用英文名），与工具包表格一致
